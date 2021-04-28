@@ -12,6 +12,5 @@ const cakeReducer = (state = initialState, action) => {
         }
         default: return state
     }
-} //remdesivir
-
+} 
 export default cakeReducer
